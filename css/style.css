@@ -1,7 +1,15 @@
 body
 {
-    background-color: blue;
-    color: aquamarine;
     text-align: center;
     font-family: "Arial";
+}
+#contenedor{
+    width: 70%;
+    padding: 1em;
+    border-bottom: 3px solid #fafa;
+    border-right: 10px solid #FFF233;
+    border-left: 10px solid #33BEFF;
+    border-top: 3px solid #FF8533;
+    text-align: center;
+    margin: 0 auto;
 }
