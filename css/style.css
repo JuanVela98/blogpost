@@ -13,3 +13,12 @@ body
     text-align: center;
     margin: 0 auto;
 }
+
+#cabecera{
+        background: #33BEFF;
+        color: white;
+        box-shadow: 2px 2px 24px 0px rgba(0,0,0,0.5);
+        font-weight: bold;
+        margin: 0;
+        padding: 0.5em;
+}
