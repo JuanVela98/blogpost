@@ -17,6 +17,7 @@ body
 }
 
 #cabecera{
+<<<<<<< HEAD
         background: #33BEFF;
         color: white;
         box-shadow: 2px 2px 24px 0px rgba(0,0,0,0.5);
@@ -27,3 +28,19 @@ body
 #cabecera #logo{
     width:20px;
     vertical-align:middle}
+=======
+    background: #33BEFF;
+    color: white;
+    box-shadow: 2px 2px 24px 0px rgba(0,0,0,0.5);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#footer{
+    background: #110266;
+    color: aliceblue;
+    text-align:center;
+    margin-top: -10px;
+    margin-bottom: -15px;
+}
+>>>>>>> footer
