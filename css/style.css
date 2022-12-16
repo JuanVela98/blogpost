@@ -2,6 +2,7 @@ body
 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    background-color: #085477;
 }
 #contenedor{
     width: 70%;
@@ -12,6 +13,7 @@ body
     border-top: 3px solid #FF8533;
     text-align: center;
     margin: 0 auto;
+    background-color: aliceblue;
 }
 
 #cabecera{
